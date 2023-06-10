@@ -1,3 +1,6 @@
+
+
+module1.function1()
 class TestModule:
     '''placeholder test'''
 
